@@ -1,0 +1,6 @@
+data/
+.venv/
+*.duckdb
+*.duckdb.wal
+.env
+.DS_Store
